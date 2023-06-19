@@ -1,0 +1,58 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.nav-link, .navbar-brand{
+    color: white;
+}
+.navbar-brand:hover{
+    color: white;
+}
+
+.nav-link:hover{
+    color: rgba(238, 238, 38, 0.87);
+}
+
+header{
+    background-color: #ff94e86b;
+}
+
+body{
+    background: linear-gradient(90deg, rgba(0,148,224,1) 0%, rgba(127,148,232,1) 35%, rgba(255,148,232,1) 100%);
+}
+
+.text-colored,.form-control{
+    color:white ;
+}
+
+article i {
+    font-size:400px;
+    color: rgba(238, 238, 38, 0.87);
+}
+
+.btn {
+    background-color: #2a93cf;
+    color: white;
+}
+
+.btn:hover{
+    background-color:#30A7EB;
+    color: rgba(238, 238, 38, 0.87) ;
+}
+
+article img{
+    height: 500px;
+    max-width: 500px;
+    width: 100%;
+}
+
+.carousel-item img {
+    display: block;
+    width: 100%;
+    height: 600px;
+}
+
+#sobre{
+    background-color: rgba(0, 0, 0, 0.116);
+}
